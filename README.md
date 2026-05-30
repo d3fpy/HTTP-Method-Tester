@@ -20,7 +20,7 @@ python server.py
 ```
 
 ### 3. Run the Client
-Update `BASE_URL` inside `main.py` with your server address (e.g., `http://127.0.0`) and run:
+Update `BASE_URL` inside `main.py` with your server address (e.g., `http://127.0.0.1:5000`) and run:
 ```bash
 python main.py
 ```
